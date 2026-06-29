@@ -1,5 +1,9 @@
+// =====================================================================
+// Evening Banquet Core Interface Logic (script.js)
+// =====================================================================
+
 /**
- * បើក ឬ បិទបង្ហាញផ្ទាំងកម្មវិធីអាពាហ៍ពិពាហ៍ (Timeline View Container)
+ * បើក ឬ បិទបង្ហាញផ្ទាំងកម្មវិធីពិសាភោជនាហារពេលល្ងាច (Timeline View Container)
  */
 function toggleProgram() {
     const timeline = document.getElementById('weddingTimeline');
@@ -14,7 +18,7 @@ function toggleProgram() {
  * បើកផែនទី Google Maps ទៅកាន់ទីតាំងភោជនីយដ្ឋាន
  */
 function openMap() {
-    // អ្នកអាចផ្លាស់ប្តូរ URL ផែនទីពិតប្រាកដនៅត្រង់នេះ
+    // ទីតាំងតំណភ្ជាប់ទៅកាន់ផែនទីភោជនីយដ្ឋាន
     window.open('https://tharahuokaing.github.io/restaurant1/', '_blank');
 }
 
