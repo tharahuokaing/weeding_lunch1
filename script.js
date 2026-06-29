@@ -15,7 +15,7 @@ function toggleProgram() {
  */
 function openMap() {
     // អ្នកអាចផ្លាស់ប្តូរ URL ផែនទីពិតប្រាកដនៅត្រង់នេះ
-    window.open('https://maps.google.com', '_blank');
+    window.open('https://tharahuokaing.github.io/restaurant1/', '_blank');
 }
 
 /**
